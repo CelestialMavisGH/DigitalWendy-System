@@ -9,3 +9,6 @@ I'm utilizing google's Text-to-speech API as well as the Speech-to-text API, upo
 The program is codded in the PyCharm IDE using Conda for Python ver. 3.6
 
 Current system version 0.0.1a
+
+
+DISCLAIMER: This is a work in progress, none of the features are finalized or fully working, if you decide to use it, use it at your own risk, in terms of usage, it's for personal use only as it's not a finished system/software
