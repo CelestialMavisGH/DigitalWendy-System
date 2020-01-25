@@ -68,5 +68,5 @@ while listentome == False:
                 quit()
                 
         except Exception as e:
-            print('Please speak again.')
+            print('No keywords detected, please say the command to begin again')
 
