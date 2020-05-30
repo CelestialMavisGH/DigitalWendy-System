@@ -11,3 +11,5 @@ Current system version 0.0.1a
 
 
 DISCLAIMER: This is a work in progress, none of the features are finalized or fully working, if you decide to use it, use it at your own risk, in terms of usage, it's for personal use only as it's not a finished system/software
+
+UPDATE #1 - Project is facing some delays due to changing living conditions and other personal factors, I will attempt to proceed as planned but it may prove significantly slower than anticipated. Some of the projects code was deleted due to a system reset, I was able to retreive part of the code so it's not a huge loss.
