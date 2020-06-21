@@ -2,7 +2,7 @@
 
 20/6/2020 - Major Rework in Progress, Will be updated upon completetion - upcoming version: 0.002 Pre-Alpha
 - Program has been renamed to DigitalWendy, Your friendly and incredibly useful digital desktop assistant.
-- Planning on making a move to IBM's Watson cloud computing as it may prove to be faster.
+- Planning on making a move to IBM's Watson cloud computing as it may prove to be faster, just generally trying to improve speech recognition speed.
 
 DigitalWendy (Its planned for multiple uses, such as Discord bots using voice, Twitch bots, System Commands)
 
